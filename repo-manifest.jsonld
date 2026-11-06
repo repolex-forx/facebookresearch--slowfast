@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/facebookresearch/slowfast/commit/287ec0076846560f44a9327e931a5a2360240533",
       "git:hexsha": "287ec0076846560f44a9327e931a5a2360240533",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
