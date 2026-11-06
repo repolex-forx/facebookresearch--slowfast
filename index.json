@@ -1,0 +1,11 @@
+{
+  "org": "facebookresearch",
+  "repo": "slowfast",
+  "versions": [
+    {
+      "commit": "287ec0076846560f44a9327e931a5a2360240533",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:02:05.262431+00:00"
+    }
+  ]
+}
